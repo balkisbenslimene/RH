@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_K6eKYNueEe6zyN4gyVlEqA" name="2010_PARTICIPANT" dataPackage="_K6eKYdueEe6zyN4gyVlEqA" Server="Localhost 127.0.0.1" FilePath="C:/Users/balkis/Desktop/RH/Réalisations 2010.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="2" FirstLineCaption="true" SheetName="PF ACT" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="PF PART:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+    <sheetColumns>J</sheetColumns>
+    <sheetColumns>K</sheetColumns>
+    <sheetColumns>L</sheetColumns>
+    <sheetColumns>M</sheetColumns>
+    <sheetColumns>N</sheetColumns>
+    <sheetColumns>O</sheetColumns>
+    <sheetColumns>P</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_K6eKYdueEe6zyN4gyVlEqA" name="default" dataManager="_K6eKYNueEe6zyN4gyVlEqA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_K6eKYtueEe6zyN4gyVlEqA" id="_LpdMwNudEe6zyN4gyVlEqA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K6eKY9ueEe6zyN4gyVlEqA" label="MATRICULE_PARTICIPANT" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K6eKZNueEe6zyN4gyVlEqA" label="NOM_ET_PRENOM" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K6eKZdueEe6zyN4gyVlEqA" label="theme" length="92" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K6eKZtueEe6zyN4gyVlEqA" label="AFFECTATION" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

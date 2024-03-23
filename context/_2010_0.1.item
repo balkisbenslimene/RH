@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_m0K8gNubEe6zyN4gyVlEqA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_m0K8gdubEe6zyN4gyVlEqA" comment="" name="_2010_ThousandSeparator" prompt="_2010_ThousandSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="','"/>
+  <contextParameter xmi:id="_m0K8gtubEe6zyN4gyVlEqA" comment="" name="_2010_FirstColumn" prompt="_2010_FirstColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_m0K8g9ubEe6zyN4gyVlEqA" comment="" name="_2010_Encoding" prompt="_2010_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_m0K8hNubEe6zyN4gyVlEqA" comment="" name="_2010_Header" prompt="_2010_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="2"/>
+  <contextParameter xmi:id="_m0K8hdubEe6zyN4gyVlEqA" comment="" name="_2010_LastColumn" prompt="_2010_LastColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_m0K8htubEe6zyN4gyVlEqA" comment="" name="_2010_DecimalSeparator" prompt="_2010_DecimalSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="'.'"/>
+  <contextParameter xmi:id="_m0K8h9ubEe6zyN4gyVlEqA" comment="" name="_2010_File" prompt="_2010_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/balkis/Desktop/RH/Réalisations 2010.xlsx"/>
+</talendfile:ContextType>
